@@ -1,7 +1,7 @@
 # Answers
 
-Lastname:
-Firstname:
+Lastname: Castañeda
+Firstname: Omar Ali
 
 ## 2.2
 command:
