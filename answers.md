@@ -4,11 +4,11 @@ Lastname: Castañeda
 Firstname: Omar Ali
 
 ## 2.2
-command:
+command:$  docker run service4
 
 ## 2.3
-question:
-command:
+question: port need to be specified
+command:$  docker run -d --name zooapp -p 192.168.0.32:3000:8080 service4
 
 ## 2.5
 question:
